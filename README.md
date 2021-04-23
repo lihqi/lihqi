@@ -5,5 +5,4 @@
 ### 你好，世界 👋
 
 -   :orange_book: Focusing on FE
--   :meat_on_bone: Meat lover
 -   :moneybag: Money lover
